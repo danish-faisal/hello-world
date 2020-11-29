@@ -1,3 +1,4 @@
 # hello-world
-Just another Repository
-Learning Git & Github
+Just another Repository 
+Learning Git & Github 
+Trying out Commit
